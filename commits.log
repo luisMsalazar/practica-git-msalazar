@@ -1,0 +1,104 @@
+commit e0fba4a509c9e7f0ee810d9bffd8b29d65a26fa1
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Sat Dec 10 20:30:04 2022 -0600
+
+    Agregando 2 parrafos
+
+commit d19c8d543954768a8afc2f6b7c1c6207b3bd51f8
+Merge: 44d426c 565b96a
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Sat Dec 10 19:50:47 2022 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 44d426ceb777b363d4b50e1b8bff51d44f486947
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Sat Dec 10 17:04:31 2022 -0600
+
+    Agregando las estaciones del año con fecha
+
+commit 565b96a914a24b67ab8ba9021d9f738f2b7fbf31
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Sat Dec 10 17:04:31 2022 -0600
+
+    Agregando las estaciones del año
+
+commit 6d9cc4c43b1384398c339f8b83460af262fceee1
+Merge: 8c19a35 65865e2
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Sat Dec 10 13:49:46 2022 -0600
+
+    Resolviendo conflicto merge entre ramas main/html en el documento index.html
+
+commit 65865e2e077785e8c96bad452b27992a50f97593
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Sat Dec 10 12:39:10 2022 -0600
+
+    Agregando el index.js al index.html
+
+commit 8c19a35f9c759e034155b34d7caebf81b231bf06
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Sat Dec 10 12:23:38 2022 -0600
+
+    Agregando style.css al index.html
+
+commit bbc06864a59e7457cced0049e940732c699260f5
+Merge: 0de6c44 7d7ebc3
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Fri Dec 9 20:15:19 2022 -0600
+
+    Merge branch 'js'
+
+commit 7d7ebc3c2c710804a30d6e5558bd6d157603b6d5
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Fri Dec 9 19:52:45 2022 -0600
+
+    Creando index.js
+
+commit 0de6c448c180306c9bb7cfb4c5d4f74cf3e04066
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Fri Dec 9 19:31:06 2022 -0600
+
+    Creando style.css
+
+commit db7072452c11f589532a939e6042532cf52e1317
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Fri Dec 9 19:07:51 2022 -0600
+
+    Creando index.html
+
+commit 4e6169ec4e07d1b1d032078f10bacead22db27fb
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Wed Aug 17 19:53:42 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 725578387c5b20d6c429e85975b5388fd6156743
+Author: luislamzz <67330105+luislamzz@users.noreply.github.com>
+Date:   Fri Aug 12 17:44:16 2022 -0500
+
+    Creando licencia del repositorio
+
+commit ef4bac3bd51922afad9aed726b727fa9ac9763ef
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Fri Aug 12 17:30:51 2022 -0500
+
+    Un cambio mas
+
+commit dd16471c5cc44108f2dfa215a5961cdc530a8023
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Fri Aug 12 17:13:22 2022 -0500
+
+    Agregando mas contenido al README
+
+commit 3c1fa206e4480626a8d9bbae1b8bd02bd5017616
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Thu Aug 11 20:36:40 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 2b15fc69d004c7771a5e4611c7bab981f3e3f3e3
+Author: Luis Martinez <lamz2310@gmail.com>
+Date:   Thu Aug 11 20:26:30 2022 -0500
+
+    Primer commit 😃
